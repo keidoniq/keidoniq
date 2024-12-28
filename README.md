@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keidoniq&show_icons=true&theme=shades-of-purple" alt="kd-learning" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keidoniq&hide=html,jupyter%20notebook&theme=transparent&layout=compact"> -->
+</p>
+
+
 <!--
 **dkyrai/dkyrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
