@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hey there 👋
 
 <p align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keidoniq&show_icons=true&theme=shades-of-purple" alt="kd-learning" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keidoniq&hide=html,jupyter%20notebook&theme=transparent&layout=compact"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keidoniq&show_icons=true&theme=transparent" alt="keidoniq" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keidoniq&hide=html,jupyter%20notebook&theme=transparent&layout=compact">
 </p>
+
+
+
+
 
 
 <!--
